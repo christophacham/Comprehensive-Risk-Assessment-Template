@@ -62,7 +62,7 @@ The Risk Response Matrix provides guidance on actions to take based on the Total
 
 ### Understanding Total Risk
 
-The Total Risk score ranges from 0 to 60, calculated as:
+The Total Risk score ranges from 0 to 75, calculated as:
 ```
 Total Risk = Likelihood x (Reputation Impact + Productivity Impact + Financial Impact)
 ```
@@ -70,11 +70,11 @@ Total Risk = Likelihood x (Reputation Impact + Productivity Impact + Financial I
 
 | Total Risk Score | Action Level      | Recommended Actions                                             |
 |------------------|-------------------|-----------------------------------------------------------------|
-| 0 - 12           | Low Risk          | Monitor the situation; no immediate action required.            |
-| 13 - 24          | Moderate Risk     | Implement standard mitigation measures; regular review needed.  |
-| 25 - 36          | High Risk         | Prioritize risk for immediate action; develop specific mitigation plans. |
-| 37 - 48          | Very High Risk    | Execute mitigation plans urgently; allocate significant resources. |
-| 49 - 60          | Critical Risk     | Immediate and comprehensive action required; executive attention needed. |
+| 0 - 15           | Low Risk          | Monitor the situation; no immediate action required.            |
+| 16 - 30          | Moderate Risk     | Implement standard mitigation measures; regular review needed.  |
+| 31 - 45          | High Risk         | Prioritize risk for immediate action; develop specific mitigation plans. |
+| 46 - 60          | Very High Risk    | Execute mitigation plans urgently; allocate significant resources. |
+| 61 - 75          | Critical Risk     | Immediate and comprehensive action required; executive attention needed. |
 
 ### Action Level Descriptions
 
